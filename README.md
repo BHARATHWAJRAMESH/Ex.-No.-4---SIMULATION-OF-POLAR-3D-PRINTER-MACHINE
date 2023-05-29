@@ -34,8 +34,8 @@
 ## Output:
 ![EX44](https://github.com/JEGADEESH07/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113497131/3518da8e-7548-4767-9c1f-529a5c1f8916)
 
-### Name: ABISHEK XAVIER A
-### Register Number: 212222230004
+### Name: BHARATHWAJ R
+### Register Number: 212222240019
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
